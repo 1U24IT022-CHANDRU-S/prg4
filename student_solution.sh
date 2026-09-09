@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # SELinux Access Denial Practical
-# Student Name:
-# Register Number:
+# Student Name:chandru.s
+# Register Number:1u24it022
 
 echo "===== SELinux Status ====="
 
